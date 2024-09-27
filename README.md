@@ -13,4 +13,4 @@ and guiding the teacher in teaching this subject.
 ## From documentation
 | Text | Bill of materials | Datasheets |
 | :---: | :---: | :---: |
-| [<img src="https://github.com/matmoj04/graduation_thesis/blob/main/foto/foto3.png?raw=true" width="540"/>](foto3.png) | [<img src="https://github.com/matmoj04/graduation_thesis/blob/main/foto/foto1.png?raw=true" width="505"/>](image.png) | [<img src="https://github.com/matmoj04/graduation_thesis/blob/main/foto/foto2.png?raw=true" width="500"/>](foto2.png) |
+| [<img src="https://github.com/matmoj04/graduation_thesis/blob/main/foto/foto3.png?raw=true" width="550"/>](foto3.png) | [<img src="https://github.com/matmoj04/graduation_thesis/blob/main/foto/foto1.png?raw=true" width="505"/>](image.png) | [<img src="https://github.com/matmoj04/graduation_thesis/blob/main/foto/foto2.png?raw=true" width="500"/>](foto2.png) |
